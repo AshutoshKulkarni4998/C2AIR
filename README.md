@@ -1,4 +1,4 @@
-# C**2AIR: Consolidated Compact Aerial Image Haze Removal 
+# C<sup>2</sup>AIR: Consolidated Compact Aerial Image Haze Removal 
 [WACV-24]
 
 [![paper](https://img.shields.io/badge/Conference-Paper-<COLOR>.svg)](https://openaccess.thecvf.com/content/WACV2024/papers/Kulkarni_C2AIR_Consolidated_Compact_Aerial_Image_Haze_Removal_WACV_2024_paper.pdf)
