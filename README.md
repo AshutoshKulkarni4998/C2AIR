@@ -6,5 +6,7 @@
 [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://www.youtube.com/watch?v=JjZQfpf1XuM)
 
 The checkpoint is available in ./result/Aerial.pth and sample testing images are available in "./Testing_Images/"
+
 To test, run "python test.py".
+
 The images will be saved in "./result/Aerial/"
